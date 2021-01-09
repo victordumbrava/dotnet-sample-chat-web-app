@@ -18,3 +18,7 @@ demo
 - local storage of opened rooms
 - ?? backup chat rooms
 - init random chat
+
+## app architecture
+- angular client
+- asp.net server
