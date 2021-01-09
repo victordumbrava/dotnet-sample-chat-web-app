@@ -13,3 +13,8 @@ CI
 demo
 
 ## app features
+- create chat room
+- share the link
+- local storage of opened rooms
+- ?? backup chat rooms
+- init random chat
